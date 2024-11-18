@@ -124,6 +124,10 @@ td, th {
     .main {
         margin-left: 40px;
     }
+    td, th {
+        font-size: small;
+        padding-right: 1px;
+    }
 }
 
 
